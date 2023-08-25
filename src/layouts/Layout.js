@@ -22,7 +22,7 @@ const Layout = ({ children }) => {
   return (
     <Fragment>
       <Head>
-        <title>Orido | Home</title>
+        <title>Mozdalif Portfio</title>
       </Head>
       <PreLoader />
       <ImageView />

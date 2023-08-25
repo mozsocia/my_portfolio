@@ -5,27 +5,27 @@
 /*	This file is made for CURRENT TEMPLATE
 
 
-01)	ORIDO BASE
-02) ORIDO MOBILE MENU
-03) ORIDO HEADER
-04) ORIDO HERO
-05) ORIDO ABOUT
-06) ORIDO INFORMATIONS
-07) ORIDO COUNTER
-08) ORIDO SERVICE
-09) ORIDO PORTFOLIO
-10) ORIDO TESTIMONIALS
-11) ORIDO NEWS
-12) ORIDO PARTNERS
-13) ORIDO CONTACT
-14) ORIDO COPYRIGHT
-15) ORIDO MAGIC CURSOR
-16) ORIDO TOTOP
-17) ORIDO MEDIA QUERIES (FOR SMALL DEVIVES)
+01)	MozTechbdBASE
+02) MozTechbdMOBILE MENU
+03) MozTechbdHEADER
+04) MozTechbdHERO
+05) MozTechbdABOUT
+06) MozTechbdINFORMATIONS
+07) MozTechbdCOUNTER
+08) MozTechbdSERVICE
+09) MozTechbdPORTFOLIO
+10) MozTechbdTESTIMONIALS
+11) MozTechbdNEWS
+12) MozTechbdPARTNERS
+13) MozTechbdCONTACT
+14) MozTechbdCOPYRIGHT
+15) MozTechbdMAGIC CURSOR
+16) MozTechbdTOTOP
+17) MozTechbdMEDIA QUERIES (FOR SMALL DEVIVES)
 
 
 /*---------------------------------------------------*/
-/*	01) ORIDO BASE
+/*	01) MozTechbdBASE
 /*---------------------------------------------------*/
 
 a {
@@ -291,7 +291,7 @@ h6 {
 }
 
 /*---------------------------------------------------*/
-/*	02) ORIDO MOBILE MENU
+/*	02) MozTechbdMOBILE MENU
 /*---------------------------------------------------*/
 
 .orido_tm_mobile_menu {
@@ -382,7 +382,7 @@ h6 {
 }
 
 /*---------------------------------------------------*/
-/*	03) ORIDO HEADER
+/*	03) MozTechbdHEADER
 /*---------------------------------------------------*/
 
 .orido_tm_header {
@@ -468,7 +468,7 @@ h6 {
 }
 
 /*---------------------------------------------------*/
-/*	04) ORIDO HERO
+/*	04) MozTechbdHERO
 /*---------------------------------------------------*/
 
 .orido_tm_hero {
@@ -758,7 +758,7 @@ h6 {
 }
 
 /*---------------------------------------------------*/
-/*	05) ORIDO ABOUT
+/*	05) MozTechbdABOUT
 /*---------------------------------------------------*/
 
 .orido_tm_about {
@@ -902,7 +902,7 @@ h6 {
 }
 
 /*---------------------------------------------------*/
-/*	06) ORIDO INFORMATIONS
+/*	06) MozTechbdINFORMATIONS
 /*---------------------------------------------------*/
 
 .orido_tm_informations {
@@ -1142,7 +1142,7 @@ h6 {
 }
 
 /*---------------------------------------------------*/
-/*	07) ORIDO COUNTER
+/*	07) MozTechbdCOUNTER
 /*---------------------------------------------------*/
 
 .orido_tm_counter {
@@ -1202,7 +1202,7 @@ h6 {
 }
 
 /*---------------------------------------------------*/
-/*	08) ORIDO SERVICE
+/*	08) MozTechbdSERVICE
 /*---------------------------------------------------*/
 
 .orido_tm_full_link {
@@ -1537,7 +1537,7 @@ h6 {
 }
 
 /*---------------------------------------------------*/
-/*	09) ORIDO PORTFOLIO
+/*	09) MozTechbdPORTFOLIO
 /*---------------------------------------------------*/
 
 .orido_tm_portfolio {
@@ -1827,7 +1827,7 @@ h6 {
 }
 
 /*---------------------------------------------------*/
-/*	10) ORIDO TESTIMONIALS
+/*	10) MozTechbdTESTIMONIALS
 /*---------------------------------------------------*/
 
 .orido_tm_testimonials {
@@ -1894,7 +1894,7 @@ h6 {
 }
 
 /*---------------------------------------------------*/
-/*	11) ORIDO NEWS
+/*	11) MozTechbdNEWS
 /*---------------------------------------------------*/
 
 .orido_tm_news {
@@ -2137,7 +2137,7 @@ h6 {
 }
 
 /*---------------------------------------------------*/
-/*	12) ORIDO PARTNERS
+/*	12) MozTechbdPARTNERS
 /*---------------------------------------------------*/
 
 .orido_tm_partners {
@@ -2176,7 +2176,7 @@ h6 {
 }
 
 /*---------------------------------------------------*/
-/*	13) ORIDO CONTACT
+/*	13) MozTechbdCONTACT
 /*---------------------------------------------------*/
 
 .orido_tm_contact {
@@ -2317,7 +2317,7 @@ h6 {
 }
 
 /*---------------------------------------------------*/
-/*	14) ORIDO COPYRIGHT
+/*	14) MozTechbdCOPYRIGHT
 /*---------------------------------------------------*/
 
 .orido_tm_copyright {
@@ -2350,7 +2350,7 @@ h6 {
 }
 
 /*---------------------------------------------------*/
-/*	15) ORIDO MAGIC CURSOR
+/*	15) MozTechbdMAGIC CURSOR
 /*---------------------------------------------------*/
 
 .mouse-cursor {
@@ -2408,7 +2408,7 @@ h6 {
 }
 
 /*---------------------------------------------------*/
-/*	16) ORIDO TOTOP
+/*	16) MozTechbdTOTOP
 /*---------------------------------------------------*/
 
 .progressbar {
@@ -2451,7 +2451,7 @@ h6 {
 }
 
 /*---------------------------------------------------*/
-/*	 ORIDO INTRO
+/*	 MozTechbdINTRO
 /*---------------------------------------------------*/
 
 .orido_tm_intro .short_info {
@@ -2621,7 +2621,7 @@ h6 {
 }
 
 /*---------------------------------------------------*/
-/*	17) ORIDO MEDIA QUERIES (FOR SMALL DEVIVES)
+/*	17) MozTechbdMEDIA QUERIES (FOR SMALL DEVIVES)
 /*---------------------------------------------------*/
 
 @media (max-width: 1600px) {
