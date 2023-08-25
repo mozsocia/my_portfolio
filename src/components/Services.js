@@ -4,7 +4,7 @@ import ServicePopup from "./popup/ServicePopup";
 
 const serviceData = [
   {
-    name: "UI/UX Design",
+    name: "BackEnd REST API",
     img: "img/service/1.jpg",
     description: [
       "Orido is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
@@ -13,7 +13,7 @@ const serviceData = [
     ],
   },
   {
-    name: "User Research",
+    name: "React/Next js Front End",
     img: "img/service/2.jpg",
     description: [
       "Orido is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
@@ -22,7 +22,7 @@ const serviceData = [
     ],
   },
   {
-    name: "UI Animation",
+    name: "Web Application",
     img: "img/service/3.jpg",
     description: [
       "Orido is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
@@ -31,7 +31,7 @@ const serviceData = [
     ],
   },
   {
-    name: "Product Design",
+    name: "Managment System",
     img: "img/service/4.jpg",
     description: [
       "Orido is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",

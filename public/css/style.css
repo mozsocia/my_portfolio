@@ -473,20 +473,32 @@ h6 {
 
 .orido_tm_hero {
   width: 100%;
-  min-height: 100vh;
+  min-height: 90vh;
   position: relative;
   float: left;
 }
 .orido_tm_hero .container {
-  min-height: 100vh;
+  min-height: 90vh;
 }
 .orido_tm_hero .content {
-  min-height: 100vh;
+  min-height: 90vh;
   position: relative;
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
+@media (max-width: 1366px) {
+  .orido_tm_hero {
+    min-height: 650px;
+  }
+  .orido_tm_hero .container {
+    min-height: 650px;
+  }
+  .orido_tm_hero .content {
+    min-height: 650px;
+  }
+}
+
 .orido_tm_hero .details {
   width: 50%;
   padding-right: 50px;
@@ -906,7 +918,7 @@ h6 {
   display: flex;
 }
 .orido_tm_informations .left {
-  width: 50%;
+  width: 40%;
   padding-right: 100px;
 }
 .orido_tm_informations .left .text {
@@ -922,7 +934,7 @@ h6 {
   margin-bottom: 0px;
 }
 .orido_tm_informations .right {
-  width: 50%;
+  width: 60%;
   position: relative;
   top: 33px;
 }
@@ -2706,7 +2718,8 @@ h6 {
     margin-top: -85px;
   }
   .orido_tm_about .experience {
-    padding-left: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
     font-size: 18px;
     margin-top: 3px;
   }
@@ -2902,7 +2915,7 @@ h6 {
     margin-bottom: 15px;
   }
 }
-@media (max-width: 1040px) {
+@media (max-width: 992px) {
   body {
     font-size: 15px;
   }

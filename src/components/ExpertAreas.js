@@ -10,12 +10,14 @@ const counts = [
 ];
 
 const skills = [
-  { name: "Figma", value: 90, icon: "img/svg/figma.svg" },
-  { name: "After Effect", value: "80", icon: "img/svg/Ae.svg" },
-  { name: "Photoshop", value: "85", icon: "img/svg/photoshop.svg" },
-  { name: "XD", value: "95", icon: "img/svg/Xd.svg" },
-  { name: "Illustrator", value: "90", icon: "img/svg/illustrator.svg" },
-  { name: "Indesign", value: "75", icon: "img/svg/Id.svg" },
+  { name: "REST API", value: "95", icon: "img/svg/figma.svg" },
+  { name: "Javascript", value: "80", icon: "img/svg/Ae.svg" },
+  { name: "React/NEXT JS", value: "85", icon: "img/svg/photoshop.svg" },
+  { name: "HTML/CSS", value: "95", icon: "img/svg/Xd.svg" },
+  { name: "SQL/NoSql", value: "90", icon: "img/svg/illustrator.svg" },
+  { name: "Express", value: "85", icon: "img/svg/Id.svg" },
+  { name: "Python", value: "75", icon: "img/svg/figma.svg" },
+  { name: "Django", value: "80", icon: "img/svg/Ae.svg" },
 ];
 
 const experiences = [

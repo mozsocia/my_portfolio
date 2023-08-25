@@ -12,7 +12,7 @@ const Home = ({ dark }) => {
             </div>
             <div className="text">
               <p>
-                {`I'm`} creative designer based in New York, and {`I'm`} very
+                {`I'm`} Full Stack Web-Developer , and {`I'm`} very
                 passionate and dedicated to my work.
               </p>
             </div>
