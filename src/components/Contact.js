@@ -37,7 +37,7 @@ const Contact = () => {
                   <span className="name">Call:</span>
                   <p>
                     <a className="line_effect" href="#">
-                      +1 (234) 567 890
+                      +8801856-289496
                     </a>
                   </p>
                 </li>
@@ -45,7 +45,7 @@ const Contact = () => {
                   <span className="name">Email:</span>
                   <p>
                     <a className="line_effect" href="#">
-                      support@smith.com
+                      mozdalif@gmail.com
                     </a>
                   </p>
                 </li>
